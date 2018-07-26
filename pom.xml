@@ -53,7 +53,7 @@
     <pax-web-extender-whiteboard.version>3.1.4</pax-web-extender-whiteboard.version>
     <junit.version>4.11</junit.version>
     <felix-fileinstall.version>3.4.2</felix-fileinstall.version>
-    <cxf.version>3.0.6</cxf.version>
+    <cxf.version>3.0.12</cxf.version>
     <requirejs.version>2.1.19</requirejs.version>
     <felix.version>4.2.1</felix.version>
     <guava.version>17.0</guava.version>
@@ -254,7 +254,7 @@
               <configLocation>${checkstyle-config-url}</configLocation>
               <propertiesLocation>${checkstyle-properties-url}</propertiesLocation>
               <linkXRef>true</linkXRef>
-              <cacheFile />
+              <cacheFile/>
             </configuration>
           </plugin>
         </plugins>
